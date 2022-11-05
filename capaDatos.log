@@ -1,0 +1,160 @@
+10:18:16 AM: DEBUG [loggerBase.py:13] DEGUB LEVEL
+10:18:16 AM: INFO [loggerBase.py:14] INFO LEVEL
+10:18:16 AM: WARNING [loggerBase.py:15] WARNING LEVEL
+10:18:16 AM: ERROR [loggerBase.py:16] ERROR LEVEL
+10:18:39 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:20:49 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:21:44 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:21:52 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:21:56 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:22:00 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:23:39 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:24:45 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:24:57 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:25:09 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:25:11 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:25:14 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:25:18 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:25:25 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+10:31:04 AM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+06:58:51 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+06:59:26 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+06:59:30 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:00:22 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:00:22 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:00:34 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:00:42 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:00:45 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:01:24 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:03:06 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
+07:03:13 PM: DEBUG [persona.py:62] 
+        ID: 0, 
+        Nombre: Jose, 
+        Apellido: Fernandez, 
+        Email: example@mail.com,
+        
